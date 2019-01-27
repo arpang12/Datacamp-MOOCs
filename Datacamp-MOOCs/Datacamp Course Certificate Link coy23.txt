@@ -1,0 +1,72 @@
+This certificate are of the datacamp course
+which are both common in the Data Analyst and Python Programmer Career Track Course 
+
+
+
+Introduction to Python
+Certificate number:-4879558
+Certificate Link:-https://www.datacamp.com/statement-of-accomplishment/course/1f9de5fa958f83d982c3561280038e15bfb3347a
+Intermediate Python for Data Science
+Certifcate number:-7960821
+Certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/ec8013900c42bc7725d77a4374d66ef5f863930b
+Python Data Science Toolbox (Part 1)
+Certificate number:-7961496
+Certficate link:-https://www.datacamp.com/statement-of-accomplishment/course/65fef4dc681405e3c9a77475bef0b17d135ab011
+Python data Science Toolbox(Part 2)
+certificate number:-7915248
+certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/3345f550be07820844de9c6ebb4ecc5ff1544c5c
+
+Importing Data in Python (Part 1)
+certificate number:-7961990
+Certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/5e65aa4154b9e7b4a852eb99841cc38a9ee30862
+Importing Data in Python (Part 2)
+Certificate number:-7962136
+Certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/befe10901c7fd1f81a5e9959dc1ae985a6579d02
+Cleaning Data in Python
+Certificate number:-7949213
+certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/db8a69775d40f64a9467ed1dc0e5eed2ce5b435a
+pandas Foundations
+Certificate Number:-7951170
+Certificate Link:-https://www.datacamp.com/statement-of-accomplishment/course/c5e5a9e32a65ca52a361a9a0e2ab20e0f0d4e10a
+Manipulating DataFrames with pandas
+Certificate Number:-7954801
+Certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/fcd62bf0cb302fe1e417c723452d563e5482be18
+Merging DataFrames with pandas
+Certicate Number:-7955062
+Certicate Link:-https://www.datacamp.com/statement-of-accomplishment/course/93414297a4efcd0daa1f6afbff2197fc6a62603b
+Introduction to Databases in Python
+Certificate Number:-7955270
+Certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/8d9f8b14d89135c09b1153f2974a400762f8e2eb
+Introduction to Data Visualization with Python
+Certificate number:-6515626
+Certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/5abc722a48fff0c3343ff95f500b2ffa3a6c4d91
+Statistical Thinking in Python (Part 1)
+Certificate number:-7959709
+Certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/dc313bda14fd4319236ed8a3f492ecf9c80584eb
+Statistical Thinking in Python (Part 2)
+Certificate number:-7960568
+Certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/39094e6c9087d07cf6737c4b160031e803b24d87
+Introduction to SQL for data science
+certificate number:-7966158
+certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/441d4b9b4cde33364c3da7194ccd03cb76cf7854
+Interactive Data visualization with Bokeh
+Certificate number:-7959580
+Certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/db38e67327baed2fdca0ea70bb1418862b7970a6
+Joining Data In postgreSQL
+Certificate number:-7977961
+Certificate Link:-https://www.datacamp.com/statement-of-accomplishment/course/081283a0d4c6796b07b640ab4d030e2212e9cd4b
+Supervised Learning with Scikit-learn
+certificate number:-7966228
+Certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/6b7a34ee31c8a55033216f2c587823be4202021a
+Machine learning with the Experts: School Budgets
+certificate number:-7966307
+certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/cfd6a87e8ef8152a131e1aff195e98e51a87f591
+Unsupervised learning in python
+certificate number:-7968327
+certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/bd467bb8e98d6d277770de1e89d809636305dd08
+Deep learning in python
+certificate number:-798466
+certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/300684e7b43da27df25bc4f0be299d384ec6dd32
+Network analysis in Python(part 1)
+certificate number:-7968680
+certificate link:-https://www.datacamp.com/statement-of-accomplishment/course/4a1b73370353e5590f8b431035caaebc02b48650
